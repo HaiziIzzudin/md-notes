@@ -179,20 +179,18 @@
 | Item | Definition |
 |-|-|
 |define cataloging|One method of BC where recorded information being organized or arranged according to establishes standards and they are made readily identifiable and retrievable.<br>*Tip: Take BC definition, just add "A method".*|
-|Purpose of using International Rules and Standards|<li>To provide consistency within a single information center - a description and headings created by one cataloguer need to be consistent with a description and heading created by another cataloguer or at a different time.<li>To provide consistency between libraries - in order to share catalogue records and thus reduce costs in a centralized or cooperative library system, libraries must use an agreed set of cataloguing rules.<li>To reduce time involved in cataloguing - if codes did not exist, cataloguers would have to start from scratch with every work they catalogued.<li>To provide ease use for library users using more than one library. |
+|Purpose of using International Rules and Standards|<li>To provide consistency within a single information center - a description and headings created by one cataloguer need to be consistent with a description and heading created by another cataloguer or at a different time.<li>To provide consistency between libraries - in order to share catalogue records and thus reduce costs in a centralized or cooperative library system, libraries must use an agreed set of cataloguing rules.<li>To reduce time involved in cataloguing - if codes did not exist, cataloguers would have to start from scratch with every work they catalogued.<li>To provide ease use for library users using more than one library.|
 |Cataloging Phases|![Cataloging Phases](image-1.png)|
-|Cataloging Rules||
-|Components of catalog record|<li>Main Entry<br>- Access point that is chosen as the main or primary one in the library and archival worlds.<li>Description<br>-Data that describes an information resource, such as its title, its associated names, its edition, its date of publication, its extent, and notes identifying pertinent features<|
-|Define descriptive cataloging||
+|Components of catalog record|<li>Main Entry<br>- Access point that is chosen as the main or primary one in the library and archival worlds.<li>Description<br>-Data that describes an information resource, such as its title, its associated names, its edition, its date of publication, its extent, and notes identifying pertinent features.<li>Tracing<br>-The set of name, title, and subject access points, other than the primary access points, that appear at the bottom of the record and are used to trace the additional copies of the surrogate record.<li>Call No.<br>-A notation on an information resource that matches the same notation in the surrogate/metadata record; it is the number used to “call” for an item in a closed stack library.|
+|Define descriptive cataloging|is a process of identifying and describing of an item, the recording of this information in the form of a cataloguing record and the selection and formation of access point (with the exception of subject access point).|
 |8 Areas of Bibliography elements|<li>Title and statement of responbilities <li> Edition statement <li> Material specific details <li> Publication  and distribution area <li> Physical descriptions <li> Series statement <li> Notes area <li> Standard numbers and terms of availability|
-|Define subject analysis|The part of indexing and cataloging that deals with the conceptual analysis of an information resource <li> The translation of that conceptual analysis into a framework for a particular classification, subject heading , or indexing system. <li>  |
-|Steps in subject anaysis||
-|Objectives of subject analysis||
-|Challenges of subject analysis||
-|Define subject cataloging||
-|Define classification||
-|Classification Scheme||
-|Cataloging workflow||
+|Define subject analysis|The part of indexing and cataloging that deals with the conceptual analysis of an information resource <li> The translation of that conceptual analysis into a framework for a particular classification, subject heading , or indexing system. <li> Using the framework to assign specific notations or terminology to the information resource. |
+|Steps in subject anaysis|<li>Examination of the intellectual or creative contents to understand :<li> What the item is about ? <li> What the item is (eg : its form and genre)<li>A single sentence or a short paragraph describing and summarizing one's understanding of the aboutness is written.<li> Translating the aboutness statement into the specific symbols and/or terminology found in the subject languages employed.|
+|Subject analysis, objective/ challenges|<ol><lI>To provide users with subject access to information resources.<li>To collocate information resources.<li>To provide a logical location for similar tangible information resources on the shelves.|
+|Define subject cataloging|Subject cataloguing involves determining what subject concepts are covered by the intellectual content of a work.|
+|Define classification|The placing of subjects into categories in organization of information. <li>Classification is the process of determining where an information resource fits into a given hierarchy and often then assigning the notation associated with the appropriate level of the hierarchy to the information resource and to its surrogate. |
+|Classification Scheme|Classification determines a cllasification number for an item, which represents the subject of the work in a number and / or letters,<li>Example of classification scheme such as Library of Congress Classification(LCC),Dewey Demical Classification (DDC),Universal Decimal Classification (UDC) and provide a location for an item in a collections.|
+|Cataloging workflow|![Cataloging workflow](image-2.png)|
 
 ## TOPIC 7: INFORMATION REPRESENTATION
 | Item | Definition |
