@@ -205,8 +205,3 @@
 |**5**<br>TEI Header, functions||
 |**6**<br>RDA, definition, development||
 |**6**<br>RDA, benefits||
-
-## TOPIC 8: OTHERS
-| Item | Definition |
-|-|-|
-
