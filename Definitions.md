@@ -182,28 +182,27 @@
 ## TOPIC 7: INFORMATION REPRESENTATION
 | Item | Definition |
 |-|-|
-|Explain bibliographic records/ surrogate record/ access points|*append to line 67*|
 |Why using one standard?|<li>To prevent duplication of work<li>To better share bibliographic resources<li>To acquire cataloging data that is predictable and reliable<li>To replace one system with another|
-|Example of standards used|<li>ISBD<li>MARC<li>Z39.50<li>Dublin Core<li>TEI Header|
-|ISBD, definition, development|<li>International Standard Bibliographic Description<li>To provide a standardized way of describing items being catalogue<li>Agreed upon by IFLA in 1970 and published in 1977|
-|ISBD, categories|<li>ISBD(M) for monograph - 1978<li>ISBD(S) for serials - 1977<li>ISBD(G) - 1978<li>ISBD(CM) for cartographic materials - 1977<li>ISBD(NBM) for non book materials - 1977<li>ISBD(A) for antiquarian - 1980<li>ISBD(PM) for printed music - 1980<li>ISBD(ER) for electronic records - 1980<li>ISBD(CF) for computer files - 1989|
-|ISBD, benefits|<li>Standardization<li>Identification of bibliographic data in any language<li>Manipulation of bibliographic data in computer application|
-|8 area description of ISBD|<li>Title and statement of responsibility<li>Edition area<li>Material specific details<li>Publication, distribution area<li>Physical description<li>Series area<li>Notes area<li>Standard number and terms of availability|
-|ISBD Outline for monograph|Title proper=parallel title : other title information / first <br> statement of responsibility ; each subsequent <br> statement of responsibility.- Edition statement / <br> Statement of responsibility relating to the edition.- <br> Place of pub.: Publisher, Date of publication <br> Pagination : illustration ; dimensions + <br> accompanying material.- (Series ; series number) <br> Note <br> ISBN : price|
-|AACR2R, definition, development|<li>Anglo American Cataloguing Rules Second Edition Revision<li>Based on ISBD<li>1988<li>Other descriptive chapters cover different kind of materials|
-|AACR2R, categories|<li> books – chapter 2 <li> cartographic materials – chapter 3 <li> manuscripts – chapter 4 <li> music – chapter 5 <li> sound recordings – chapter 6 <li> motion pictures and video recordings – chapter 7 <li> graphic materials – chapter 8 <li> computer files – chapter 9 <li> three-dimensional artifacts and reali- chapter 10|
-|MARC, development||
-|MARC, structure||
-|MARC, benefits||
-|Z39.5, definition, development||
-|Z39.5, benefits||
-|Dublin Core, definition, development||
-|Dublin Core, elements||
-|TEI Header, definition, development||
-|TEI Header, categories||
-|TEI Header, functions||
-|RDA, definition, development||
-|RDA, benefits||
+|Example of standards used|<ol><li>ISBD<li>MARC<li>Z39.50<li>Dublin Core<li>TEI Header<li>RDA|
+|**1**<br> ISBD, definition, development|<li>International Standard Bibliographic Description<li>To provide a standardized way of describing items being catalogue<li>Agreed upon by IFLA in 1970 and published in 1977|
+|**1** <br>ISBD, categories|<li>ISBD (M) for monograph; 1978<li>ISBD (S) for serials; 1977<li>ISBD (G) for General; 1978<li>ISBD (CM) for cartographic materials; 1977<li>ISBD (NBM) for non book materials; 1977<li>ISBD (A) for antiquarian; 1980<li>ISBD (PM) for printed music; 1980<li>ISBD (ER) for electronic records; 1980<li>ISBD (CF) for computer files; 1989|
+|**1** <br>ISBD, benefits|<li>Standardization<li>Identification of bibliographic data in any language<li>Manipulation of bibliographic data in computer application|
+|**1** <br>ISBD, area description|<ol><li>Title and statement of responsibility<li>Edition area<li>Material specific details<li>Publication, distribution area<li>Physical description<li>Series area<li>Notes area<li>Standard number and terms of availability|
+|**1** <br>ISBD, Outline for monograph|![ISBD outline for monograph](image.png)|
+|**1**<br>AACR2R, development|Based on ISBD; *1988*<br>*Other descriptive chapters cover different kind of materials.*|
+|**1**<br>AACR2R, categories<br>(*Numbering corresponds to chapters*)|<ol><li>Intro<li> Books <li> Cartographic materials <li> Manuscripts <li> Music <li> Sound recordings <li> Motion pictures and video recordings  <li> Graphic materials <li> Computer files <li> 3D artifacts and Realia|
+|**2**<br>MARC, development||
+|**2**<br>MARC, structure||
+|**2**<br>MARC, benefits||
+|**3**<br>Z39.5, definition, development||
+|**3**<br>Z39.5, benefits||
+|**4**<br>Dublin Core, definition, development||
+|**4**<br>Dublin Core, elements||
+|**5**<br>TEI Header, definition, development||
+|**5**<br>TEI Header, categories||
+|**5**<br>TEI Header, functions||
+|**6**<br>RDA, definition, development||
+|**6**<br>RDA, benefits||
 
 ## TOPIC 8: OTHERS
 | Item | Definition |
