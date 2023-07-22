@@ -1,1 +1,1 @@
-Please view notes in *Wiki* section
+[IMC451 Notes](https://github.com/HaiziIzzudin/md-notes/wiki/IMC451-Notes)
