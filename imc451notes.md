@@ -2,7 +2,7 @@
 
 **DISCLAIMER:** ***This content is not marketed to be fully complete, this is concise revision notes. Expect contents to be shorten or removed from the original notes. You have been warned.***
 
-**CONTENT DISPLAY:** ***For best display in mobile, you are recommended to switch view to Desktop Mode. (Chrome or Firefox for mobile works best.)***
+**CONTENT DISPLAY:** ***For best display in mobile, you are recommended to enable accessibility settings, and set to 80%. Alternatively, use Desktop view.***
 
 ## RECURRING DEFINITIONS
 | Item | Definition |
