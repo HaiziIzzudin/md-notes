@@ -193,9 +193,10 @@
 |**1** <br>ISBD, Outline for monograph|![ISBD outline monograf](https://github.com/HaiziIzzudin/md-notes/assets/79714350/4ed64374-23e6-4251-8042-80bff1664827)|
 |**1**<br>AACR2R, development|Based on ISBD; *1988*<br>*Other descriptive chapters cover different kind of materials.*|
 |**1**<br>AACR2R, categories<br>(*Numbering corresponds to chapters*)|<ol><li>Intro<li> Books <li> Cartographic materials <li> Manuscripts <li> Music <li> Sound recordings <li> Motion pictures and video recordings  <li> Graphic materials <li> Computer files <li> 3D artifacts and Realia|
-|**2**<br>MARC, development|<li> Developed by the Library of Congress in the 1950s <li> Library of Congress MARC data was sent out to 16 libraries on tape <li> After 25 years, over 50 different formats developed across the world <li> Examples of MARC: UNIMARC, USMARC, UKMARC|
-|**2**<br>MARC, structure||
-|**2**<br>MARC, benefits||
+|**2**<br>MARC, definition| <li> A standard prescribing codes that precede and identify specific elements of a catalog record <li> The records can be read by machine and displayed in a fashion design <li> |
+|**2**<br>MARC, development|<li> Developed by the Library of Congress in the 1950s <li> Library of Congress MARC data was sent out to 16 libraries on tape in 1966<li> After 25 years, over 50 different formats developed across the world <li> Examples of MARC: UNIMARC, USMARC, UKMARC|
+|**2**<br>MARC, structure| <li> Record Leader: data elements that provide information of the processing record <li> Directory: consists of a series of entries that contain the tag, length, and starting location of each variable <li> Fields: Into which we enter our bibliographic information - access points and descriptive cataloging|
+|**2**<br>MARC, benefits|<li> Furthering access to the world's information <li> Reducing information costs <li> Help libraries / information center locate, acquire, access information|
 |**3**<br>Z39.5, definition, development||
 |**3**<br>Z39.5, benefits||
 |**4**<br>Dublin Core, definition, development||
