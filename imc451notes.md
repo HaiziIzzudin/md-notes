@@ -32,6 +32,8 @@
 |CIP|Cataloging in Publication|
 |COM|Computer Output Microform|
 |DDC|Dewey Decimal Classification|
+|FRBR|Functional Requirements for Bibliographic Records|
+|FRAD|Functional Requirements for Authority Data|
 |IFLA|International Federation of Library Associations and Institutions|
 |ISBN|International Standard Book Number|
 |ISSN|International Standard Serial Number|
@@ -180,7 +182,7 @@
 |Purpose of using International Rules and Standards|<li>To provide consistency within a single information center - a description and headings created by one cataloguer need to be consistent with a description and heading created by another cataloguer or at a different time.<li>To provide consistency between libraries - in order to share catalogue records and thus reduce costs in a centralized or cooperative library system, libraries must use an agreed set of cataloguing rules.<li>To reduce time involved in cataloguing - if codes did not exist, cataloguers would have to start from scratch with every work they catalogued.<li>To provide ease use for library users using more than one library. |
 |Cataloging Phases|![Cataloging Phases](image-1.png)|
 |Cataloging Rules||
-|Components of catalog record||
+|Components of catalog record|<li>Main Entry<br>- Access point that is chosen as the main or primary one in the library and archival worlds.<li>Description<br>-Data that describes an information resource, such as its title, its associated names, its edition, its date of publication, its extent, and notes identifying pertinent features<|
 |Define descriptive cataloging||
 |8 Areas of Bibliography elements|<li>Title and statement of responbilities <li> Edition statement <li> Material specific details <li> Publication  and distribution area <li> Physical descriptions <li> Series statement <li> Notes area <li> Standard numbers and terms of availability|
 |Define subject analysis|The part of indexing and cataloging that deals with the conceptual analysis of an information resource <li> The translation of that conceptual analysis into a framework for a particular classification, subject heading , or indexing system. <li>  |
@@ -211,10 +213,9 @@
 |**3**<br>Z39.5, definition, development| <li> A national standard that provides for the exchange of information between otherwise non-compatible computer systems <li> Network application standard: open standard that enable communication between systems that run on different hardware and use different software <li>  Developed during 1980s and early 1990s by LC,OCLC RLIN & Western Library Network|
 |**3**<br>Z39.5, benefits| <li> Overcome multiple database searching problems <li> Simplifies search process|
 |**4**<br>Dublin Core, definition, development|<li> Set of elements that could be filled in by the creator of an electronic document <li> Implemented through the use of HTML <li> Consists of 15 elements that divided to 3 main groups: Content of resource, intellectual properties, resource as an instance |
-|**4**<br>Dublin Core, elements|<li>Title: the name of the source <li> Subject & Keywords: the topics of the resource <li> Description: a textual description of the content of the resource <li>Source<li>Language<li>Relation: relationship links<li>Coverage: special characteristic or temporal characteristic|
-|**5**<br>TEI Header, definition, development|To provide a way of encoding old, literary or scholarly texts so that encoded version could be exhange easily <li>To provide a source of information for cataloguing|
+|**4**<br>Dublin Core, elements|<ol><li>Title<li>Subject & keywords<li>Description<li>Source<li>Language<li>Relationship<li>Coverage<li>Author/Creator<li>Publisher<li>Other contributor<li>Right elements<li>Date<li>Resource Type<li>Format<li>Resource identifier|
+|**5**<br>TEI Header, definition, development|To provide a way of encoding old, literary or scholarly texts so that encoded version could be exhange easily <br>To provide a source of information for cataloging.|
 |**5**<br>TEI Header, sections|<li>File description: bibliographic info<li>Encoding description: description of encoding pract<li>Profile description<li>Revision description|
-|**5**<br>TEI Header, functidhangescr msde finition, devcelopment||
 |**6**<br>RDA, development|A successor to AACR2. Based on FRBR and FRAD.|
 |**6**<br>RDA, timeline|1977: International Conference of the Principles and Future Development of AACR in Toronto, Canada.<br>1998: FRBR published by IFLA.<br>2002: Work began on "AACR3".<br>2005: Name changed to RDA<br>2008: full draft of RDA made available<br>2010, June: RDA released. <br><br>RDA testing by U.S national libraries and partners:<br>Through Sept. 30, 2010: training and creation of practice records.<br> Oct. 1 to Dec. 30, 2010: Creation of test records. <br>Jan. 1 to Mac. 31, 2011: evaluation<br>June 2011: decision announced.<br>Postpone implementation until certain changes are implemented with specific recommended changes/ policy decisions for US libraries.|
 |**6**<br>RDA, benefits|<li>Better suited to the digital enviroment<li>More accepting of data from other sources<li>Data recorded in a way machines can use more easily|
