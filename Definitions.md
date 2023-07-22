@@ -189,9 +189,9 @@
 |ISBD, categories|<li>ISBD(M) for monograph - 1978<li>ISBD(S) for serials - 1977<li>ISBD(G) - 1978<li>ISBD(CM) for cartographic materials - 1977<li>ISBD(NBM) for non book materials - 1977<li>ISBD(A) for antiquarian - 1980<li>ISBD(PM) for printed music - 1980<li>ISBD(ER) for electronic records - 1980<li>ISBD(CF) for computer files - 1989|
 |ISBD, benefits|<li>Standardization<li>Identification of bibliographic data in any language<li>Manipulation of bibliographic data in computer application|
 |8 area description of ISBD|<li>Title and statement of responsibility<li>Edition area<li>Material specific details<li>Publication, distribution area<li>Physical description<Series area<li>Notes area<li>Standard number and terms of availability|
-|ISBD Outline for monograph|Title proper=parallel title : other title information / first statement of responsibility ; each subsequent statement of responsibility.- Edition statement / Statement of responsibility relating to the edition.- Place of pub.: Publisher, Date of publication Pagination : illustration ; dimensions + accompanying material.- (Series ; series number) Note ISBN : price|
-|AACR2R, definition, development|<li>Anglo American Cataloguing Rules Second Edition Revision<li>Based on ISBD<li>1988|
-|AACR2R, categories||
+|ISBD Outline for monograph|Title proper=parallel title : other title information / first <br> statement of responsibility ; each subsequent <br> statement of responsibility.- Edition statement / <br> Statement of responsibility relating to the edition.- <br> Place of pub.: Publisher, Date of publication <br> Pagination : illustration ; dimensions + <br> accompanying material.- (Series ; series number) <br> Note <br> ISBN : price|
+|AACR2R, definition, development|<li>Anglo American Cataloguing Rules Second Edition Revision<li>Based on ISBD<li>1988<li>Other descriptive chapters cover different kind of materials|
+|AACR2R, categories|<li> books – chapter 2 <li> cartographic materials – chapter 3 <li> manuscripts – chapter 4 <li> music – chapter 5 <li> sound recordings – chapter 6 <li> motion pictures and video recordings – chapter 7 <li> graphic materials – chapter 8 <li> computer files – chapter 9 <li> three-dimensional artifacts and reali- chapter 10|
 |MARC, development||
 |MARC, structure||
 |MARC, benefits||
