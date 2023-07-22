@@ -183,14 +183,14 @@
 | Item | Definition |
 |-|-|
 |Explain bibliographic records/ surrogate record/ access points|*append to line 67*|
-|Why using one standard?||
-|Example of standards used||
-|ISBD, definition, development||
-|ISBD, categories||
-|ISBD, benefits||
-|8 area description of ISBD||
-|ISBD Outline for monograph||
-|AACR2R, definition, development||
+|Why using one standard?|<li>To prevent duplication of work<li>To better share bibliographic resources<li>To acquire cataloging data that is predictable and reliable<li>To replace one system with another|
+|Example of standards used|<li>ISBD<li>MARC<li>Z39.50<li>Dublin Core<li>TEI Header|
+|ISBD, definition, development|<li>International Standard Bibliographic Description<li>To provide a standardized way of describing items being catalogue<li>Agreed upon by IFLA in 1970 and published in 1977|
+|ISBD, categories|<li>ISBD(M) for monograph - 1978<li>ISBD(S) for serials - 1977<li>ISBD(G) - 1978<li>ISBD(CM) for cartographic materials - 1977<li>ISBD(NBM) for non book materials - 1977<li>ISBD(A) for antiquarian - 1980<li>ISBD(PM) for printed music - 1980<li>ISBD(ER) for electronic records - 1980<li>ISBD(CF) for computer files - 1989|
+|ISBD, benefits|<li>Standardization<li>Identification of bibliographic data in any language<li>Manipulation of bibliographic data in computer application|
+|8 area description of ISBD|<li>Title and statement of responsibility<li>Edition area<li>Material specific details<li>Publication, distribution area<li>Physical description<Series area<li>Notes area<li>Standard number and terms of availability|
+|ISBD Outline for monograph|Title proper=parallel title : other title information / first statement of responsibility ; each subsequent statement of responsibility.- Edition statement / Statement of responsibility relating to the edition.- Place of pub.: Publisher, Date of publication Pagination : illustration ; dimensions + accompanying material.- (Series ; series number) Note ISBN : price|
+|AACR2R, definition, development|<li>Anglo American Cataloguing Rules Second Edition Revision<li>Based on ISBD<li>1988|
 |AACR2R, categories||
 |MARC, development||
 |MARC, structure||
