@@ -193,7 +193,7 @@
 |**1** <br>ISBD, Outline for monograph|![ISBD outline monograf](https://github.com/HaiziIzzudin/md-notes/assets/79714350/4ed64374-23e6-4251-8042-80bff1664827)|
 |**1**<br>AACR2R, development|Based on ISBD; *1988*<br>*Other descriptive chapters cover different kind of materials.*|
 |**1**<br>AACR2R, categories<br>(*Numbering corresponds to chapters*)|<ol><li>Intro<li> Books <li> Cartographic materials <li> Manuscripts <li> Music <li> Sound recordings <li> Motion pictures and video recordings  <li> Graphic materials <li> Computer files <li> 3D artifacts and Realia|
-|**2**<br>MARC, development||
+|**2**<br>MARC, development|<li> Developed by the Library of Congress in the 1950s <li> Library of Congress MARC data was sent out to 16 libraries on tape <li> After 25 years, over 50 different formats developed across the world <li> Examples of MARC: UNIMARC, USMARC, UKMARC|
 |**2**<br>MARC, structure||
 |**2**<br>MARC, benefits||
 |**3**<br>Z39.5, definition, development||
