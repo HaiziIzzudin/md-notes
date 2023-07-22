@@ -29,22 +29,28 @@
 |AACR2R|Anglo-American Cataloging Rules, Second Edition, Revised|
 |APA|American Psychological Association|
 |BC|Bibliographic Control|
+|CIP|Cataloging in Publication|
 |COM|Computer Output Microform|
 |DDC|Dewey Decimal Classification|
 |IFLA|International Federation of Library Associations and Institutions|
+|ISBN|International Standard Book Number|
+|ISSN|International Standard Serial Number|
 |KMC|Knowledge Management Center|
 |LC|Library of Congress|
 |LCC|Library of Congress Classification|
 |LCSH|Library of Congress Subject Heading|
+|MALMARC|Malaysian MARC Records|
 |MARC|Machine Readable Cataloging|
 |MLA|Modern Language Association|
 |OI|Organization of Information|
 |OPAC|Open Public Access Catalog|
+|PNM|Perpustakaan Negara Malaysia|
 |RDA|Resource Description and Access|
 |SEARS|Sears List of Subject Headings|
+|SGML-DTD|Standard Generalized Markup Language Document Type Definition|
+|TEI|Text Encoding Initiatives|
 |UDC|Universal Decimal Classification|
 |UNESCO|The United Nations Educational, Scientific and Cultural Organization|
-|MALMARC|Malaysian MARC Records|
 
 ## TOPIC 1: INTRO TO OI
 | Item | Definition |
@@ -147,32 +153,37 @@
 |UBC Aims|promotion of the world-wide system for the control and exchange of bibliographic information. The purpose of the system is to make universally and promptly available, in a form which is internationally acceptable, basic bibliographic data on all publications issued in all countries|
 |Why we need system such as UBC?|<li>The role of the libraries and the duties of librarian have changed, from static to dynamic.<li>Librarians have extended their function as an organizer of all sources of information. <li> Libraries are considered to be an active force in the national development to have an important contribution to make.|
 |NBC, objective|<li>To improve & strengthen NBC<li>To contribute to the nation’s own library & information network.<li> To build up the national library & archival collections. <li>Responsible within the nation to find and record national materials for the benefit of the national library, information and archive system.|
-|Define National Bibliographic Agencies (NBA)||
-|Hierarchy of NBC||
-|Functions of NBA/NBC||
-|UBC Requirements at International Level||
-|IFLA Background||
-|IFLA Aims||
-|BC Activities in Malaysia||
-|Deposit of Library Materials Act 1986||
-|National Depository Center||
-|ISDS/ ISSN||
-|ISBN||
-|CIP||
-|Problems of BC||
+|NBA, define|Organizational unit establish within a country's library system.|
+|Hierarchy of NBC|![Hierarchy of NBC](image.png)|
+|Functions of NBA|<ol><li>Collecting the national published imprint<li> Producing the national bibliography<li> Providing the authoritative bibliographic record for each title<li> Developing and implementing national and international standards<li>Facilitating the exchange of bibliographic records between countries.|
+|UBC, Requirement at international level|<li>Each NBA responsible for creating the authoritative bibliographic record of the publications of its own country.<li>International standards in creating the bibliographic record.|
+|UBC, Requirement at national level, aim|To ensure that it is possible to make the bibliographic record of each new publication as it is issued (legal deposit/similar governmental regulation, etc.)|
+|UBC, requirement at national level|<li>Establish the authoritative bibliographic record for each new publication issued in the country <li>Publish those records as soon as possible <li>Produce and distribute the records in a standard physical forms (national union catalog, etc.) <li>Receive, distribute and exchange those records with other country <li>Create a retrospective national bibliography.|
+|IFLA, development|is a leading international body representing interests of library and information services and their users. IFLA represents global voice of the library & information profession. Founded in Edinburgh in 1927 at International Conference, IFLA was registered in the Netherlands in 1971, in the Hague headquarters. It is an independent, international, non-governmental, not-for-profit organization.|
+|IFLA, aims|<ol><li>Promote high standards of provision and delivery of library and information services.<li>Encourage understanding of the value of good library & information services.<li>Represent interest of members throughout the world.|
+|IFLA, core values|<ol><li>Believe that people, communities & organization has the rights to free access of information, ideas and work of imagination.<li>Believe that the provision & delivery of high quality & information services help guarantee that access.<li>Committed to enabling library associations & institutions and their staff to participate in the work of the federation.<li>Promote the principles of freedom of access to information, ideas and works of imagination.|
+|IFLA, financial sources|Grants from UNESCO, Institutional, National Libraries and members fees.|
+|IFLA, international programmes|<ol><li>UBC<li>UAP<li>UBCIM<li>ICABS<li>ALP<li>PAC|
+|PNM, BC Activities in Malaysia|As specified by National Library Act 1972 and the National Library (Amendment) Act 1987 Part 11, Section 4(2)(d), is responsible for the maintenance of the national bibliographic network, the national bibliographic database and the provision of national bibliographic and documentation services.|
+|PNM, responsibility|<ol><li>National bibliographic control of Malaysian publications received under the Deposit of Library Materials Act 1986.<li>Ensure that all bibliographic records of publication are done according to the standard rules and regulations.|
+|PNM, Deposit of Library Materials Act 1986|<li>It made compulsory for all publishers to deposit 5 copies of printed materials and 2 copies of non-printed materials with national PNM.<li>PNM responsible for collecting, preserving and making accessible to the public every title published in Malaysia.<li>PNM also responsible to compile Malaysian National Bibliography.|
+|PNM, National Depository Center|<li>Providing the conservation and availability of materials published in Malaysia.<li>Creating uniform bibliographic records of material published in Malaysia.<li>Making available statistical records of materials published in Malaysia|
+|ISDS/ISSN|PNM has been appointed as the center for ISDS (1977), with the responsibility of issuing ISSN for serial publications in Malaysia. <br>Allows easy accessible to periodical literature.|
+|ISBN|PNM has been appointed as National center for ISBN (1982) to promotes and facilitates the ordering and acquisition of books published in Malaysia at national and international levels. <br> Act as controller in identifying publishers and their publications in the country.|
+|CIP|PNM has been appointed to Provide CIP for materials published in Malaysia. This to helps book industry in promoting sales and support standardized cataloging practices and to encourage national and international exchange of information of new publication.|
+|Problems of BC|<ol><li>Identifying materials<li>Procrument of materials.<li>Language<li>Script use<li>Geographical<li>Cooperation<li>Decrease in the number of professional staffs<li>Weak Legal Deposit Act<li>Level of intellectual activities have gone down.|
 
 ## TOPIC 6: BC ACTIVITIES
 | Item | Definition |
 |-|-|
-|3 BC Activities|One method of BC where recorded information being organized or arranged according to establishes standards and they are made readily identifiable and retrievable.<br>*Tip: Take BC definition, just add "A method".*|
-|Define Cataloging||
-|Purpose of using International Rules and Standards||
-|Cataloging Phases||
+|define cataloging|One method of BC where recorded information being organized or arranged according to establishes standards and they are made readily identifiable and retrievable.<br>*Tip: Take BC definition, just add "A method".*|
+|Purpose of using International Rules and Standards|<li>To provide consistency within a single information center - a description and headings created by one cataloguer need to be consistent with a description and heading created by another cataloguer or at a different time.<li>To provide consistency between libraries - in order to share catalogue records and thus reduce costs in a centralized or cooperative library system, libraries must use an agreed set of cataloguing rules.<li>To reduce time involved in cataloguing - if codes did not exist, cataloguers would have to start from scratch with every work they catalogued.<li>To provide ease use for library users using more than one library. |
+|Cataloging Phases|![Cataloging Phases](image-1.png)|
 |Cataloging Rules||
 |Components of catalog record||
 |Define descriptive cataloging||
-|8 Areas of Bibliography elements||
-|Define subject analysis||
+|8 Areas of Bibliography elements|<li>Title and statement of responbilities <li> Edition statement <li> Material specific details <li> Publication  and distribution area <li> Physical descriptions <li> Series statement <li> Notes area <li> Standard numbers and terms of availability|
+|Define subject analysis|The part of indexing and cataloging that deals with the conceptual analysis of an information resource <li> The translation of that conceptual analysis into a framework for a particular classification, subject heading , or indexing system. <li>  |
 |Steps in subject anaysis||
 |Objectives of subject analysis||
 |Challenges of subject analysis||
@@ -193,16 +204,17 @@
 |**1** <br>ISBD, Outline for monograph|![ISBD outline monograf](https://github.com/HaiziIzzudin/md-notes/assets/79714350/4ed64374-23e6-4251-8042-80bff1664827)|
 |**1**<br>AACR2R, development|Based on ISBD; *1988*<br>*Other descriptive chapters cover different kind of materials.*|
 |**1**<br>AACR2R, categories<br>(*Numbering corresponds to chapters*)|<ol><li>Intro<li> Books <li> Cartographic materials <li> Manuscripts <li> Music <li> Sound recordings <li> Motion pictures and video recordings  <li> Graphic materials <li> Computer files <li> 3D artifacts and Realia|
-|**2**<br>MARC, definition| <li> A standard prescribing codes that precede and identify specific elements of a catalog record <li> The records can be read by machine and displayed in a fashion design <li> |
+|**2**<br>MARC, definition| <li> A standard prescribing codes that precede and identify specific elements of a catalog record <li> The records can be read by machine and displayed in a fashion design <li> MARC contains a guide to its data|
 |**2**<br>MARC, development|<li> Developed by the Library of Congress in the 1950s <li> Library of Congress MARC data was sent out to 16 libraries on tape in 1966<li> After 25 years, over 50 different formats developed across the world <li> Examples of MARC: UNIMARC, USMARC, UKMARC|
 |**2**<br>MARC, structure| <li> Record Leader: data elements that provide information of the processing record <li> Directory: consists of a series of entries that contain the tag, length, and starting location of each variable <li> Fields: Into which we enter our bibliographic information - access points and descriptive cataloging|
 |**2**<br>MARC, benefits|<li> Furthering access to the world's information <li> Reducing information costs <li> Help libraries / information center locate, acquire, access information|
-|**3**<br>Z39.5, definition, development||
-|**3**<br>Z39.5, benefits||
-|**4**<br>Dublin Core, definition, development||
-|**4**<br>Dublin Core, elements||
-|**5**<br>TEI Header, definition, development||
-|**5**<br>TEI Header, categories||
-|**5**<br>TEI Header, functions||
-|**6**<br>RDA, definition, development||
-|**6**<br>RDA, benefits||
+|**3**<br>Z39.5, definition, development| <li> A national standard that provides for the exchange of information between otherwise non-compatible computer systems <li> Network application standard: open standard that enable communication between systems that run on different hardware and use different software <li>  Developed during 1980s and early 1990s by LC,OCLC RLIN & Western Library Network|
+|**3**<br>Z39.5, benefits| <li> Overcome multiple database searching problems <li> Simplifies search process|
+|**4**<br>Dublin Core, definition, development|<li> Set of elements that could be filled in by the creator of an electronic document <li> Implemented through the use of HTML <li> Consists of 15 elements that divided to 3 main groups: Content of resource, intellectual properties, resource as an instance |
+|**4**<br>Dublin Core, elements|<li>Title: the name of the source <li> Subject & Keywords: the topics of the resource <li> Description: a textual description of the content of the resource <li>Source<li>Language<li>Relation: relationship links<li>Coverage: special characteristic or temporal characteristic|
+|**5**<br>TEI Header, definition, development|To provide a way of encoding old, literary or scholarly texts so that encoded version could be exhange easily <li>To provide a source of information for cataloguing|
+|**5**<br>TEI Header, sections|<li>File description: bibliographic info<li>Encoding description: description of encoding pract<li>Profile description<li>Revision description|
+|**5**<br>TEI Header, functidhangescr msde finition, devcelopment||
+|**6**<br>RDA, development|A successor to AACR2. Based on FRBR and FRAD.|
+|**6**<br>RDA, timeline|1977: International Conference of the Principles and Future Development of AACR in Toronto, Canada.<br>1998: FRBR published by IFLA.<br>2002: Work began on "AACR3".<br>2005: Name changed to RDA<br>2008: full draft of RDA made available<br>2010, June: RDA released. <br><br>RDA testing by U.S national libraries and partners:<br>Through Sept. 30, 2010: training and creation of practice records.<br> Oct. 1 to Dec. 30, 2010: Creation of test records. <br>Jan. 1 to Mac. 31, 2011: evaluation<br>June 2011: decision announced.<br>Postpone implementation until certain changes are implemented with specific recommended changes/ policy decisions for US libraries.|
+|**6**<br>RDA, benefits|<li>Better suited to the digital enviroment<li>More accepting of data from other sources<li>Data recorded in a way machines can use more easily|
