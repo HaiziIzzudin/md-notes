@@ -162,7 +162,7 @@
 ## TOPIC 6: BC ACTIVITIES
 | Item | Definition |
 |-|-|
-|3 BC Activities||
+|3 BC Activities|One method of BC where recorded information being organized or arranged according to establishes standards and they are made readily identifiable and retrievable.<br>*Tip: Take BC definition, just add "A method".*|
 |Define Cataloging||
 |Purpose of using International Rules and Standards||
 |Cataloging Phases||
