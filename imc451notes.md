@@ -35,6 +35,7 @@
 |FRBR|Functional Requirements for Bibliographic Records|
 |FRAD|Functional Requirements for Authority Data|
 |IFLA|International Federation of Library Associations and Institutions|
+|ISBD|International Standard Bibliographic Description|
 |ISBN|International Standard Book Number|
 |ISSN|International Standard Serial Number|
 |KMC|Knowledge Management Center|
@@ -197,7 +198,7 @@
 |-|-|
 |Why using one standard?|<li>To prevent duplication of work<li>To better share bibliographic resources<li>To acquire cataloging data that is predictable and reliable<li>To replace one system with another|
 |Example of standards used|<ol><li>ISBD<li>MARC<li>Z39.50<li>Dublin Core<li>TEI Header<li>RDA|
-|**1**<br> ISBD, definition, development|<li>International Standard Bibliographic Description<li>To provide a standardized way of describing items being catalogue<li>Agreed upon by IFLA in 1970 and published in 1977|
+|**1**<br> ISBD, definition, development|To provide a standardized way of describing items being catalogue<br>Agreed upon by IFLA in 1970 and published in 1977|
 |**1** <br>ISBD, categories|<li>ISBD (M) for monograph; 1978<li>ISBD (S) for serials; 1977<li>ISBD (G) for General; 1978<li>ISBD (CM) for cartographic materials; 1977<li>ISBD (NBM) for non book materials; 1977<li>ISBD (A) for antiquarian; 1980<li>ISBD (PM) for printed music; 1980<li>ISBD (ER) for electronic records; 1980<li>ISBD (CF) for computer files; 1989|
 |**1** <br>ISBD, benefits|<li>Standardization<li>Identification of bibliographic data in any language<li>Manipulation of bibliographic data in computer application|
 |**1** <br>ISBD, area description|<ol><li>Title and statement of responsibility<li>Edition area<li>Material specific details<li>Publication, distribution area<li>Physical description<li>Series area<li>Notes area<li>Standard number and terms of availability|
@@ -211,7 +212,7 @@
 |**3**<br>Z39.5, definition, development| <li> A national standard that provides for the exchange of information between otherwise non-compatible computer systems <li> Network application standard: open standard that enable communication between systems that run on different hardware and use different software <li>  Developed during 1980s and early 1990s by LC,OCLC RLIN & Western Library Network|
 |**3**<br>Z39.5, benefits| <li> Overcome multiple database searching problems <li> Simplifies search process|
 |**4**<br>Dublin Core, definition, development|<li> Set of elements that could be filled in by the creator of an electronic document <li> Implemented through the use of HTML <li> Consists of 15 elements that divided to 3 main groups: Content of resource, intellectual properties, resource as an instance |
-|**4**<br>Dublin Core, elements|<ol><li>Title<li>Subject & keywords<li>Description<li>Source<li>Language<li>Relationship<li>Coverage<li>Author/Creator<li>Publisher<li>Other contributor<li>Right elements<li>Date<li>Resource Type<li>Format<li>Resource identifier|
+|**4**<br>Dublin Core, elements|Content of resources:<ol><li>**Title**/ name of resource<li>**Subject & keyword** topic of resource<li>Textual **description** of content of resources <li> Source<li>Language<li>**Relationship** links<li>**Coverage**, special characteristics/ temporal characteristics</ol>Intellectual property:<ol start=8><li>Author/Creator<li>Publisher<li>Other contributor<li>**Right elements**, identifier gives info about rights management.</ol>Resource-as-an-instance:<ol start=12><li>**Date** of creation<li> **Resource Type** category of resource<li>**Format** designation of software & hardware<li>**Resource identifier** like URL/ ISBN|
 |**5**<br>TEI Header, definition, development|To provide a way of encoding old, literary or scholarly texts so that encoded version could be exhange easily <br>To provide a source of information for cataloging.|
 |**5**<br>TEI Header, sections|<li>File description: bibliographic info<li>Encoding description: description of encoding pract<li>Profile description<li>Revision description|
 |**6**<br>RDA, development|A successor to AACR2. Based on FRBR and FRAD.|
