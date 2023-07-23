@@ -34,7 +34,7 @@
 |DDC|Dewey Decimal Classification|
 |FRBR|Functional Requirements for Bibliographic Records|
 |FRAD|Functional Requirements for Authority Data|
-|IFLA|International Federation of Library Associations and Institutions|
+|IFLA|International Federation of Library Associations and Institutions (aka. **IFeLAI**)|
 |ISBD|International Standard Bibliographic Description|
 |ISBN|International Standard Book Number|
 |ISSN|International Standard Serial Number|
