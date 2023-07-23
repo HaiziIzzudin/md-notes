@@ -67,6 +67,7 @@
 |Why seek information?|<ol><li>To gain knowledge.<li>To solve problem.<li> To collect data.|
 |Why we organize information?|<ol><li>Human has basic instinct to organize.<li>Organization is the applied fundamental concept to retrieve information.<li>Information can put to use in many difference instances.<li>Organization of information results into collections of usable records for future civilization.|
 |OI is also called...|Bibliographic control|
+|Major activities of OI by Ronald Hagler|<ol><li>Identifying existence of ALL types of information resource as they made available.<li>Identify works contained within those resources or part of them.<li>Pulling resources into collection<li>Produce lists of resources according to standards and rules.<li>Providing name, title, subject, and other useful access to these resources.<li>Provide means of locating each of it/ copy of it.|
 
 ## TOPIC 2: OI IN DIFFERENT ENVIORNMENTS
 | Item | Notes |
