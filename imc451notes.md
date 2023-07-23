@@ -190,8 +190,8 @@
 |Steps in subject analysis|<ol><li>Examination of the intellectual or creative contents to understand: What the item is about? What the item is (eg: its form and genre)<li>A single sentence or a short paragraph describing and summarizing one's understanding of the aboutness is written.<li> Translating the aboutness statement into the specific symbols and/or terminology found in the subject languages employed.|
 |Subject analysis, objective/ challenges|<ol><lI>To provide users with subject access to information resources.<li>To collocate information resources.<li>To provide a logical location for similar tangible information resources on the shelves.|
 |Define subject cataloging|Subject cataloguing involves determining what subject concepts are covered by the intellectual content of a work.|
-|Define classification|The placing of subjects into categories in organization of information. <li>Classification is the process of determining where an information resource fits into a given hierarchy and often then assigning the notation associated with the appropriate level of the hierarchy to the information resource and to its surrogate. |
-|Classification Scheme|Classification determines a cllasification number for an item, which represents the subject of the work in a number and / or letters,<li>Example of classification scheme such as Library of Congress Classification(LCC),Dewey Demical Classification (DDC),Universal Decimal Classification (UDC) and provide a location for an item in a collections.|
+|Classification, define|A process of determining where an information resource fits into a given hierarchy and assigning notation associated with the appropriate level of the hierarchy to the information resource and to its surrogate.|
+|Classification Scheme|<li>LCC<li>DDC<li>UDC<li>Provide a location for an item in a collection.|
 |Cataloging workflow|![Cataloging workflow](image-2.png)|
 
 ## TOPIC 7: INFORMATION REPRESENTATION
