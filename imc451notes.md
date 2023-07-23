@@ -46,6 +46,7 @@
 |MARC|Machine Readable Cataloging|
 |MLA|Modern Language Association|
 |OI|Organization of Information|
+|OCLC|Ohio College Library Center|
 |OPAC|Open Public Access Catalog|
 |PNM|Perpustakaan Negara Malaysia|
 |RDA|Resource Description and Access|
