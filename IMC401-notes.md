@@ -48,7 +48,7 @@ Processors contain | <li>Control unit (CU) <li> arithmetic logic unit (ALU)
 Control unit (CU) | Is the component of the processor that directs and coordinates most of the operations in the computer.
 Arithmetic logic unit (ALU) | Performs arithmetic, comparison, and other operations.
 Processor methodology|For every instruction, a processor repeats a set of four basic operations, which comprise a **machine cycle**.
-Steps in machine cycle | ![Steps in Machine cycle](image.png)
+Steps in machine cycle | ![Steps in machine cycle](https://github.com/HaiziIzzudin/md-notes/assets/79714350/0f74b378-f298-4e00-acc5-4acbf96f055d)
 Registers| Temporarily hold data and instructions.
 System clock| Controls the timing of all computer operations.
 Pace of the system clock is called | the **clock speed**, measured in gigahertz (GHz)
@@ -61,7 +61,7 @@ Memory size units measurements | Gigabytes (GB)
 Two kinds of memory| **Volatile memory:** Loses its contents when power is turned off. E.g.: RAM<br>**Non volatile memory:** Does not lose contents when power is removed. E.g.: ROM, flash memory, and CMOS.
 Types of RAM | <li>Dynamic RAM (DRAM)<li> Static RAM (SRAM)
 RAM chips | Usually reside on a memory module and are inserted into memory slots.
-Memory cache | Speeds the processes of the computer because it stores frequently used instructions and data. <br>![Memcache diagram](image-1.png)
+Memory cache | Speeds the processes of the computer because it stores frequently used instructions and data. <br>![Memcache diag](https://github.com/HaiziIzzudin/md-notes/assets/79714350/a8a2e79d-deed-4d84-b404-0bbcb38fe923)
 Read-only memory (ROM) | Memory chips storing permanent data and instructions.
 ROM example | Firmware
 Flash memory method | Can be erased electronically and rewritten.
