@@ -174,3 +174,24 @@ Backup Methods | <table><tbody><tr> <td>**Type of Backup**</td><td>**Description
 
 
 
+# CHAPTER 3 Types of computer system
+
+|ITEM|DESCRIPTION|
+|-|-|
+Computer System | is a collection of entities(hardware, software and liveware) that are designed to receive, process, manage and present information in a meaningful format. As a digital electronic machine that can programmed to perform some operations as per the computer program instructions.
+Computer hardware | Are physical parts/ intangible parts of a computer. 
+Main computer hardware device | <ol><li>Input devices<li>output devices<li>central processing unit<li>storage devices
+Computer software/ programs/ applications classification|**SYSTEM SOFTWARE** and **APPLICATION SOFTWARE**
+Liveware/ orgware/ humanware | is the computer user. The user commands the computer system to execute on instructions.
+type of computer system | <li>Desktop personal computer (PC)<li>Portable & mobile computer<li>Workstations<li>Servers<li>Data center
+Desktop personal computer (PC)|It is designed to be in a stationary location, where all of its components fit on or under a desk or table. <br>On many desktops, the screen is housed in a display device that is separated from the system unit. 
+All-in-one Computer|Uses same case to house the display and system unit.<br>Some desktops and all-in-ones have displays that support touch (known as touch screen)<br>Term ‘desktop’ also sometimes used to refer to an on-screen work area on laptops, tablets and desktops.
+Mobile Computer|Personal computer you can carry from place to place<br>**Examples:** notebook computers, laptop computers, netbooks, ultra-thins, and Tablet PCs
+Mobile Device|Computing device small enough to hold in your hand<br>**Examples:** smart phones and PDAs, e-book readers, handheld computers, portable media players, and digital cameras
+Workstations |<li>A high-performance computer system that is basically designed for a single user and has advanced graphics capabilities, large storage capacity, and a powerful central processing unit<li>More capable than PC but less advanced than server<li>Workstations are used primarily to perform computationally intensive scientific and engineering tasks.
+Servers, define|A computer dedicated to providing one or more services to other computers or devices on a network ( a collection of computers and devices connected often wirelessly) <li>Services provided by servers include storing content and controlling access to hardware, software and other resources on a network. (diagram)
+Servers, method |<li> Can support from two to several thousands connected computers and devices at the same times<li>Available in a variety of sizes and types (small and large business applications.<li>Home user – smaller size and applications; larger corporate/government/web application use powerful, expensive servers to support their daily operations
+Data center|<li>Physical facility that used to house their critical applications and data <li>Design is based on a network of computing and storage resources that enable the delivery of shared applications and data<li>Key components – routers, switches, firewalls, storage systems, servers and application-delivery controllers.
+
+
+
