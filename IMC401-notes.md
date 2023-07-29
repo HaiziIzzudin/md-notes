@@ -220,3 +220,14 @@ Client Server Benefits/Disbenefits | ![CS Benefits](image-9.png)
 
 
 
+# CHAPTER 5 Computer Communication
+
+|ITEM|DESCRIPTION|
+|-|-|
+Two broad categories of Communications Media | **Guided (wired) transmission media:** signals are guided along a solid medium<br> **Wireless:** the signal is broadcast over airwaves as a form of electromagnetic radiation.
+Communications Media : physical | ![Twisted pair](image-12.png)<br>![Coax](image-13.png)<br>![fiber](image-14.png)<br>![Alt text](image-15.png)
+Communications Media: wireless |  <li> Wireless transmission involves the broadcast of communications in one of three frequency ranges <li>The signal must be broadcast within a specific frequency range to avoid interference with other wireless transmissions<br> 
+Communications Media: Wireless, types <br> | <li>Near field communication (NFC): a very short-range wireless connectivity technology <li>Designed for consumer electronics, cell phones, and credit cards <li>Bluetooth <li> Wi-Fi (based on 802.11) <li> Wi-Max (based on 802.16) <li> ![benefits](image-16.png)
+Microwave Transmission | Microwave is a high-frequency (300 MHz–300 GHz) signal sent through the air <br> <br> Common forms of satellite communications:<br>![satellite](image-17.png) 
+Communications Hardware commons | ![commons](image-18.png)
+Communications Software |  **Network operating system (NOS):** <li> Systems software that controls the computer systems and devices on a network <li> Linux, UNIX, Windows Server, and Mac OS X are common NOSs <br> <br>**Network-management software:** <li> Protects software from being copied, modified, or downloaded illegally <li> Locates telecommunications errors and potential network problems <br> <br> **Mobile device management software:** <li> Manages and troubleshoots mobile devices remotely, pushing out applications, data, patches and settings
