@@ -2,10 +2,10 @@
 
 **DISCLAIMER:** ***This content is not marketed to be fully complete, this is concise revision notes. Expect contents to be shorten or removed from the original notes. You have been warned.***
 
-**Thanks to these contributors that helped in the making of the note:**<br>Haziq (CDIM1C), Syazdwan (CDIM1B), Sufian (CDIM1B), Danish (CDIM1B), Afiq (CDIM1B), Haizi (CDIM1C)
+***Thanks to these contributors that helped in the making of the note:**<br>Haziq (CDIM1C), Syazdwan (CDIM1B), Sufian (CDIM1B), Danish (CDIM1B), Afiq (CDIM1B), Haizi [Myself] (CDIM1C)*
 
 
-# CHAPTER 1 : INTRODUCTION TO ICT
+# CHAPTER 1 Introduction to ICT
 
 |ITEM|DESCRIPTION|
 |-|-|
@@ -34,7 +34,7 @@ Computer application in society | <ol><li>Education<li> Government <li> Finance 
 
 
 
-# CHAPTER 2: Components of computer hardware
+# CHAPTER 2 Components of computer hardware
 
 |ITEM|DESCRIPTION|
 |-|-|
@@ -170,7 +170,7 @@ Tape drive method| reads and writes data and information on a magnetic tape.
 Magnetic stripe card | has a magnetic stripe that contains information.
 Smart card | stores data on an integrated circuit embedded in the card.
 NFC | NFC-enabled device contains an NFC (Near Field Communication) chip. Most NFC tags are self-adhesive.
-Backup Methods | <table><tbody><tr> <td>**Type of Backup**</td><td>**Description**</td><td>**Advantages**</td><td>**Disadvantages**</td> </tr> <tr> <td>Full backup</td><td>Copies all of the files on media in the computer.</td><td>Fastest recovery method. All files are saved.</td><td>Longest backup time.</td> </tr> <tr> <td>Differential backup</td><td>Copies only the files that have changed since the last full backup.</td><td>Fast backup method. Requires minimal storage space to back up.</td><td>Recovery is time-consuming because the last full backup plus the differential backup are needed.</td> </tr> <tr> <td>Incremental backup</td><td>Copies only the files that have changed since the last full or incremental backup.</td><td>Fastest backup method. Requires minimal storage space to back up. Only most recent changes saved.</td><td>Recovery is most time-consuming because the last full backup and all incremental backups since the last full backup are needed.</td> </tr> <tr> <td>Selective backup</td><td>Users choose which folders and files to include in a backup.</td><td>Fast backup method. Provides great flexibility.</td><td>Difficult to manage individual file backups. Least manageable of all the backup methods.</td> </tr> <tr> <td>Continuous data protection (CDP)</td><td>All data is backed up whenever a change is made.</td><td>The only real-time backup. Very fast recovery of data.</td><td>Very expensive and requires a great amount of storage.</td> </tr> <tr> <td>Cloud backup</td><td>Files are backed up to the cloud as they change.</td><td>Cloud backup provider maintains backup hardware. Files may be retrieved or restored from anywhere with an Internet connection and app on any device.</td><td>Requires an Internet connection and app, otherwise files are marked for backup when the computer goes back online.</td> </tr> </tbody></table>
+Backup Methods | ![Backup methods](image-11.png)
 
 
 
@@ -192,6 +192,31 @@ Workstations |<li>A high-performance computer system that is basically designe
 Servers, define|A computer dedicated to providing one or more services to other computers or devices on a network ( a collection of computers and devices connected often wirelessly) <li>Services provided by servers include storing content and controlling access to hardware, software and other resources on a network. (diagram)
 Servers, method |<li> Can support from two to several thousands connected computers and devices at the same times<li>Available in a variety of sizes and types (small and large business applications.<li>Home user – smaller size and applications; larger corporate/government/web application use powerful, expensive servers to support their daily operations
 Data center|<li>Physical facility that used to house their critical applications and data <li>Design is based on a network of computing and storage resources that enable the delivery of shared applications and data<li>Key components – routers, switches, firewalls, storage systems, servers and application-delivery controllers.
+
+
+
+# CHAPTER 4 Network Fundamentals
+
+|ITEM|DESCRIPTION|
+|-|-|
+Network Fundamentals | <li> Computer network consist the communications media, devices, and software needed to connect two or more computer systems or devices. <li> Enable users to share hardware, software, databases and facilitate communication
+Network Nodes | The computers and devices on the networks.
+Network Topology | The layout of the computers and devices in a communication network
+Common network topologies | <li> Ring network <li> Bus network <li> Star network <li> Mesh network (matrix)
+Ring Network Topology | ![Ring](image-3.png)
+Bus Network Topology | ![Bus](image-4.png)
+Star Network Topology | ![Star](image-5.png)
+Mesh Network Topology | ![Mesh](image-6.png)
+Personal Area Network (PAN) | Supports the interconnection of information technology close to one person
+Local Area Network (LAN) | Connects computer systems and devices within a small area (e.g. an office or a home)
+Metropolitan Area Network (MAN) | Connects users and their devices in an area that spans a campus or city
+Wide Area Network (WAN) | Connects large geographic region
+Network Systems, diagram | ![Server/Peer](image-7.png)
+P2P (peer to peer) network | <li> A decentralized collection of computers that has been established to exchange information (such as file documents, songs, movies, software, etc) with everyone or only certain users <li> All computers on the network are considered equal, with each workstation offering access to resources and data. <li> Peer-to-Peer can be huge networks in which computers may interact with each other and share what is on or linked to their machines with other people.
+PEER-TO-PEER Systems | <li> Example is Windows 10 updates. Microsoft’s servers and P2P are both used to deliver Windows 10 upgrades. <li> Some online gaming platforms make use of peer-to-peer (P2P) technology to allow players to download games. Diablo III, StarCraft II, and World of Warcraft are all distributed through peer-to-peer (P2P) by Blizzard Entertainment.
+P2P Benefits/Disbenefits | ![P2P benefits](image-10.png)
+Client/Server Systems | <li> Features multiple computer platforms dedicated to special functions, e.g., database management, printing, or communications. <li> A client is any computer that sends messages requesting services from the servers on the network. <li> A database server sends only the data that meets a specific query—not the entire file. <li> Server or host computer, controls access to the hardware, software and other resources on the network  and provides a centralized. <li>**Example:** Books
+Client Server Benefits/Disbenefits | ![CS Benefits](image-9.png)
 
 
 
