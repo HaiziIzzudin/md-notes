@@ -1,6 +1,6 @@
 # IMC452 Introduction to Metadata Short Notes
 
-###### DISCLAIMER: *This content is not marketed to be fully complete, this is concise revision notes. Expect contents to be shorten or removed from the original notes. You have been warned.<br><br>Contributors: Haziq Izwan (CDIM263), and Haizi (CDIM263).*
+###### DISCLAIMER: *This content is not marketed to be fully complete, this is concise revision notes. Expect contents to be shorten or removed from the original notes. You have been warned.<br><br>Contributors: Haziq Izwan (CDIM263), and Haizi (CDIM263).<br><Br>Best viewed on Destop browser, or tablet, or on mobile (Portrait need to zoom out a bit, or view in landscape.)*
 
 |Item|Description|
 |-|-|
